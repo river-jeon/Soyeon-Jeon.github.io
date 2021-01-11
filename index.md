@@ -1,5 +1,4 @@
-![Image](images/1610365172684.jpg "River Jeon")
-<img align="right" src="images/1610365172684.jpg">
+<img align="left" src="images/1610365172684.jpg">
 
 ## Welcome to GitHub Pages
 
