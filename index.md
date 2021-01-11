@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/river-jeon/river-jeon.github.io/blob/main/images/1610365172684.jpg)
+[Link](url) and ![Image](https://github.com/river-jeon/river-jeon.github.io/blob/main/images/1610365172684.jpg "River Jeon")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
