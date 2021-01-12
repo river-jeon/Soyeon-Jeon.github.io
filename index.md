@@ -1,4 +1,4 @@
-<img align="left" src="images/1610365172684.jpg" | width=100>
+<img align="left" src="images/1610365172684.jpg" width=100>
 
 ## Welcome to GitHub Pages
 
