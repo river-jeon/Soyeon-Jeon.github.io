@@ -1,6 +1,6 @@
 <img align="right" src="images/1610365172684.jpg" width=100>
 
-## Welcome to GitHub Pages
+## Welcome to Soyeon River Jeon's Website
 
 You can use the [editor on GitHub](https://github.com/river-jeon/river-jeon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
