@@ -2,11 +2,7 @@
 title: This will be the title-tag of the page head
 ---
 
-hello
-=====
-
-**You are here!**
-
+[Research](research.md)
 
 <img align="right" src="images/1610365172684.jpg" width=100>
 
@@ -14,7 +10,7 @@ hello
 
 I am a Masters student in Political Science Major at Seoul National University, South Korea.
 
-[link example](
+
 
 ### Markdown
 
