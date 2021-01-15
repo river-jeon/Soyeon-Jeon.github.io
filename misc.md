@@ -2,4 +2,4 @@
 title: Title
 ---
 
-Miscellaneous stuff
+Miscellaneous
