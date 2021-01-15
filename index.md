@@ -4,6 +4,8 @@ title: This will be the title-tag of the page head
 
 [Research](research.md)
 
+[Miscellaneous](misc.md)
+
 <img align="right" src="images/1610365172684.jpg" width=100>
 
 ## Welcome to Soyeon River Jeon's Website
