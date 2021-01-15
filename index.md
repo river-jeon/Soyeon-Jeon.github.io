@@ -4,6 +4,7 @@ title: This will be the title-tag of the page head
 
 [Research](research.md)
 [button url="http://www.google.com"]
+{% include button.html url="http://www.google.com" %}
 
 
 
