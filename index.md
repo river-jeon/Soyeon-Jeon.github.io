@@ -8,7 +8,7 @@ title: This will be the title-tag of the page head
 
 ## Welcome to Soyeon River Jeon's Website
 
-I am a Masters student in Political Science Major at Seoul National University, South Korea.
+I am a Master's student in Political Science Major at Seoul National University, South Korea.
 
 
 
