@@ -2,7 +2,7 @@
 title: This will be the title-tag of the page head
 ---
 
-[Research](research.md){: .btn}
+[ResearchBTN](research.md){: .btn}
 
 
 [Miscellaneous](misc.md)
