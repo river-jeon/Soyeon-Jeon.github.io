@@ -1,2 +1,2 @@
 <!-- <object data="images/JEON__SO_YEON_s_Resume_2022_02_11.pdf" width="1000" height="1000" type='application/pdf'></object> -->
-<object data="{{ post.images/JEON__SO_YEON_s_Resume_2022_02_11.pdf }}" width="1000" height="1000" type='application/pdf'/>resume</object>
+<object data="{{ post.images/JEON__SO_YEON_s_Resume_2022_02_11.pdf }}" width="1000" height="1000" type='application/pdf'/></object>
