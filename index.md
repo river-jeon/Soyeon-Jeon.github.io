@@ -16,7 +16,7 @@ title: This will be the title-tag of the page head
 ## Soyeon River Jeon
 
 I am a Master's student in Political Science Major at [Seoul National University](button.url="https://en.wikipedia.org/wiki/Seoul_National_University"), South Korea.
-My advisor is [Wonho Park](button.url=http://polisci.snu.ac.kr/korean/sub2_01_view.php?id=34).
+My advisory professor is [Wonho Park](button.url=http://polisci.snu.ac.kr/korean/sub2_01_view.php?id=34).
 
 
 ## Research Interest
