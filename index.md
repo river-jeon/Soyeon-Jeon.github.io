@@ -2,7 +2,7 @@
 title: Soyeon River Jeon's Webpage
 ---
 
-<a href="river-jeon.github.io/pdf/Resume.pdf" target="_blank"> Resume </a>
+<a href="https://river-jeon.github.io/pdf/Resume.pdf" target="_blank"> Resume </a>
 
 
 [Research](research.md)
