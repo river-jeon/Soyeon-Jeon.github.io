@@ -7,7 +7,6 @@ title: This will be the title-tag of the page head
 {% include button.html url="http://www.google.com" %}
 
 
-
 [Miscellaneous](misc.md)
 
 <img align="right" src="images/1610365172684.jpg" width=100>
@@ -16,7 +15,7 @@ title: This will be the title-tag of the page head
 
 I am a Master's student in Political Science Major at Seoul National University, South Korea.
 
-
+My interest lies in Political Communication, 
 
 ### Markdown
 
