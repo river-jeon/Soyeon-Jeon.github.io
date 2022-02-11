@@ -2,8 +2,9 @@
 title: Soyeon River Jeon's Webpage
 ---
 
-[Resume](resume.md)
-<!-- [ResumeView]<object data="{{ post.images/JEON__SO_YEON_s_Resume_2022_02_11.pdf }}" width="1000" height="1000" type='application/pdf'/></object> -->
+<a href="river-jeon.github.io/images/JEON__SO_YEON_s_Resume_2022_02_11.pdf" target="_blank"> Resume </a>
+
+
 [Research](research.md)
 
 
