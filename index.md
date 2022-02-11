@@ -1,13 +1,10 @@
 ---
-title: This will be the title-tag of the page head
+title: Soyeon River Jeon's Webpage
 ---
 
 [Resume](resume.md)
 <!-- [ResumeView]<object data="{{ post.images/JEON__SO_YEON_s_Resume_2022_02_11.pdf }}" width="1000" height="1000" type='application/pdf'/></object> -->
 [Research](research.md)
-<!-- % [button url="http://www.google.com"] % -->
-<!-- {% include button.html url="http://www.google.com" %} -->
-
 
 
 
@@ -21,7 +18,6 @@ My advisory professor is <a href="http://polisci.snu.ac.kr/korean/sub2_01_view.p
 ## Research Interest
 Public Opinion, Political Communication: Emotions in Politics, Political Participation, New Media
 Computational Social Science: Natural Language Processing, Sentiment Analysis
-
 
 
 ### Skills
