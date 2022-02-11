@@ -3,7 +3,7 @@ title: This will be the title-tag of the page head
 ---
 
 [Resume](resume.md)
-
+[ResumeView]<object data="{{ post.images/JEON__SO_YEON_s_Resume_2022_02_11.pdf }}" width="1000" height="1000" type='application/pdf'/></object>
 [Research](research.md)
 % [button url="http://www.google.com"] %
 {% include button.html url="http://www.google.com" %}
