@@ -19,11 +19,9 @@ I am a Master's student in Political Science Major at <a href="https://en.snu.ac
 My advisory professor is <a href="http://polisci.snu.ac.kr/korean/sub2_01_view.php?id=34"> Wonho Park </a>.
 
 ## Research Interest
-Public Opinion, Political Communication, 
+Public Opinion, Political Communication: Emotions in Politics, Political Participation, New Media
 Computational Social Science: Natural Language Processing, Sentiment Analysis
 
-
-[Miscellaneous](misc.md)
 
 
 ### Skills
