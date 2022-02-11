@@ -2,22 +2,32 @@
 title: This will be the title-tag of the page head
 ---
 
+[Resume](resume.md)
+
 [Research](research.md)
-[button url="http://www.google.com"]
+% [button url="http://www.google.com"] %
 {% include button.html url="http://www.google.com" %}
+
+
+
+
+<img align="right" src="images/1610365172684.jpg" width=100>
+
+## Soyeon River Jeon
+
+I am a Master's student in Political Science Major at [Seoul National University](button.url="https://en.wikipedia.org/wiki/Seoul_National_University"), South Korea.
+My advisor is [Wonho Park](button.url=http://polisci.snu.ac.kr/korean/sub2_01_view.php?id=34).
+
+
+## Research Interest
+Public Opinion, Political Communication, 
+Computational Social Science: Natural Language Processing, Sentiment Analysis
 
 
 [Miscellaneous](misc.md)
 
-<img align="right" src="images/1610365172684.jpg" width=100>
 
-## Welcome to Soyeon River Jeon's Website
-
-I am a Master's student in Political Science Major at Seoul National University, South Korea.
-
-My interest lies in Political Communication, 
-
-### Markdown
+### Skills
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
