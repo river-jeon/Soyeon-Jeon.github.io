@@ -2,7 +2,7 @@
 title: Soyeon River Jeon's Webpage
 ---
 
-<a href="https://river-jeon.github.io/pdf/Resume.pdf" target="_blank"> Resume </a>
+For more details contact me via e-mail in the <a href="https://river-jeon.github.io/pdf/Resume.pdf" target="_blank"> Resume </a>
 
 
 
@@ -24,27 +24,12 @@ Computational Social Science: Natural Language Processing, Sentiment Analysis
 ## Research
 
 ### Applying Unsupervised Summarization to YouTube CommentsRegarding the Build Back Better Act
+This paper proposes a novel unsupervised summarization technique employing a state-of-the-art opinion summarizer. With the goal of quickly obtaining a succinct aggregate of political media consumers' opinions, this paper modifies a previous work to incorporate substantive implementational changes to jointly consider: i) conflicting frames, ii) various aspects in the issue and iii) like count on each comment. This paper tests this modified design with user comments made on YouTube videos covering the Build Back Better Act. While the baseline model may have shown good performance on product reviews -- the data it had originally been trained on -- this paper finds that proposed model outperforms the baseline qualitatively. The paper also describes two of a three-part study, each detailing the three implementational improvements. This paper finds that the `likes' count could already exhibit positive effects on the opinion summarization performance, paving the way to an even more effective capturing method for the public reception of, political engagement in, and the general ambience surrounding a developing political issue on YouTube and similar media platforms.
 
-check out <a href = "https://river-jeon.github.io/images/newplot.png" target="_blank"> hierarchical clustering </a>
+<a href = "https://river-jeon.github.io/images/newplot.png" target="_blank"> hierarchical clustering </a> for further information.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details contact me via e-mail in the Resume.
 
 
