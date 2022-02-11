@@ -2,7 +2,6 @@
 title: Soyeon River Jeon's Webpage
 ---
 
-<a href="river-jeon.github.io/images/JEON__SO_YEON_s_Resume_2022_02_11.pdf" target="_blank"> Resume </a>
 
 
 [Research](research.md)
