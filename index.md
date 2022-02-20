@@ -2,7 +2,7 @@
 title: Soyeon River Jeon's Webpage
 ---
 
-<iframe src="https://river-jeon.github.io/tvdebate"></iframe>
+TV debate ios 유저는 이 <a href="https://river-jeon.github.io/tvdebate"></a> 링크</a>를 클릭해주세요. 
 
 For more details contact me through e-mail in the <a href="https://river-jeon.github.io/pdf/Resume.pdf" target="_blank"> Resume </a>
 
