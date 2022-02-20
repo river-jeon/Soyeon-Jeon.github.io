@@ -1,11 +1,15 @@
 ---
 title: Soyeon River Jeon's Webpage
 ---
-
+### Presidential TV debate 
 TV debate ios 유저는 다음의 <a href="https://river-jeon.github.io/tvdebate"> 링크</a>를 클릭해주세요. 
 
-For more details contact me through e-mail in the <a href="https://river-jeon.github.io/pdf/Resume.pdf" target="_blank"> Resume </a>
+Based on Affective Intelligence Theory (AIT), this research analyzes the 2022 Korean presidential TV debate. We plan to find out the informed effect and persuasion effect of the voters and synchronization of emotion between the candidates and the voters who watch the presidential TV debate. 
 
+
+
+
+For more details contact me through e-mail in the <a href="https://river-jeon.github.io/pdf/Resume.pdf" target="_blank"> Resume </a>
 
 
 <img align="right" src="images/1610365172684.jpg" width=100>
@@ -33,6 +37,3 @@ This is a link to <a href = "https://river-jeon.github.io/images/newplot.png" ta
 This study is a political attempt to investigate and evaluate the effect of political polarization on voters' voting choices in a multidimensional manner. Social network usage patterns, sources of information, chances of deliberation in personal networks, ideology and other factors are considered as main variables. Through three rounds of panel analysis, we expect to observe the cause and contents of political polarization among Korean voters and how it affects the vote choice of the electorates. 
 
 
-### Presidential TV debate 
-
-Based on Affective Intelligence Theory (AIT), this research analyzes the 2022 Korean presidential TV debate. We plan to find out the informed effect and persuasion effect of the voters and synchronization of emotion between the candidates and the voters who watch the presidential TV debate. 

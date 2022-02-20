@@ -60378,7 +60378,7 @@ else if(o==="\uc724\uc11d\uc5f4")s="assets/sy.jpg"
 else if(o==="\uc2ec\uc0c1\uc815")s="assets/sj.jpg"
 else s=o==="\uc548\ucca0\uc218"?"assets/cs.jpg":r
 p=A.an7(p.d,5)
-return A.im(q,A.uE(B.a_,q,A.aaa(new A.u_(A.apZ(q,q,new A.rw(s,q,q)),75,75,B.v2,q),new A.a2l(new A.a2k(this)),q),B.F,q,0,q,q,q,q,B.cT),q,new A.fl(q,q,p,q,q,q,B.bo),q,new A.aE(5,5,5,5),q,q)}}
+return A.im(q,A.uE(B.a_,q,A.aaa(new A.u_(A.apZ(q,q,new A.rw(s,q,q)),50,50,B.v2,q),new A.a2l(new A.a2k(this)),q),B.F,q,0,q,q,q,q,B.cT),q,new A.fl(q,q,p,q,q,q,B.bo),q,new A.aE(5,5,5,5),q,q)}}
 A.a2k.prototype={
 $0(){var s=0,r=A.a_(t.H),q=this,p,o,n,m,l
 var $async$$0=A.a0(function(a,b){if(a===1)return A.X(b,r)
