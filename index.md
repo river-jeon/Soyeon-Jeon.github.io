@@ -2,7 +2,7 @@
 title: Soyeon River Jeon's Webpage
 ---
 
-<iframe src="C:/Users/river/Downloads/web/index.html"></iframe>
+<iframe src="https://river-jeon.github.io/tvdebate"></iframe>
 
 For more details contact me through e-mail in the <a href="https://river-jeon.github.io/pdf/Resume.pdf" target="_blank"> Resume </a>
 
