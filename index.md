@@ -33,6 +33,6 @@ This study is a political attempt to investigate and evaluate the effect of poli
 
 Based on Affective Intelligence Theory (AIT), this research analyzes the 2022 Korean presidential TV debate. We plan to find out the informed effect and persuasion effect of the voters and synchronization of emotion between the candidates and the voters who watch the presidential TV debate. 
 
-// This is a  <a href="https://river-jeon.github.io/tvdebate"> link </a> to the webapp for presidential TV debate research. 
+
 
 
