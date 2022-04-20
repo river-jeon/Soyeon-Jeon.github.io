@@ -12,6 +12,8 @@ For more details contact me via e-mail in the <a href="https://river-jeon.github
 
 I am a Master's student in Political Science Major at <a href="https://en.snu.ac.kr/index.html"> Seoul National University </a>, South Korea.
 My advisory professor is <a href="http://polisci.snu.ac.kr/korean/sub2_01_view.php?id=34"> Wonho Park </a>.
+I will join as a Ph.D. Student, Department of Political Science, Washington University in St. Louis (j.soyeon@email.wustl.edu) starting Fall, 2022.
+
 
 ## Research Interest
 Public Opinion, Political Communication: Emotions in Politics, Political Participation, New Media
