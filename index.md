@@ -2,7 +2,7 @@
 title: Soyeon River Jeon's Webpage
 ---
 
-For more details contact me through e-mail in the <a href="https://river-jeon.github.io/pdf/Resume.pdf" target="_blank"> Resume </a>
+For more details contact me through e-mail in the <a href="https://river-jeon.github.io/pdf/resume.pdf" target="_blank"> Resume </a>
 
 
 <img align="right" src="images/1610365172684.jpg" width=100>
