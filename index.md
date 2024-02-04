@@ -5,7 +5,7 @@ title: Soyeon River Jeon's Webpage
 For more details contact me through e-mail in the <a href="https://river-jeon.github.io/pdf/Resume.pdf" target="_blank"> Resume </a>
 
 
-<img align="right" src="images/1610365172684.jpg" width=100>
+<img align="right" src="pictures/Picture1.png" width=100>
 
 ## Soyeon River Jeon
 
